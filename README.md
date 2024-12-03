@@ -7,7 +7,7 @@ This data is publicly available for use under the CC BY 4.0 license.
 
 # Information about this repository:
 
-Our presentation slides and executive summary is based on Navdeep Rana's results, which have the overall best error scores. 
+Our presentation slides and executive summary are based on Navdeep Rana's results, which have the overall best error scores. 
 Navdeep performed linear/polynomial regression model, knn model, random forest model and XGBoost model. 
 The corresponding Jupyter notebooks are in the folder Notebooks/Work_by_Navdeep_Rana. 
 To get the results presented in the executive summary, run the 5 Jupyter notebooks located in the folder Notebooks/Work_by_Navdeep_Rana/model_testing. 
