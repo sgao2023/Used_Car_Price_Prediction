@@ -9,7 +9,7 @@ This data is publicly available for use under the CC BY 4.0 license.
 
 Our presentation slides and executive summary is based on Navdeep Rana's results, which have the overall best error scores. 
 Navdeep performed linear/polynomial regression model, knn model, random forest model and XGBoost model. 
-The corresponding jupyter Notebooks are in the folder Notebooks/Work_by_Navedeep_Rana. 
+The corresponding jupyter Notebooks are in the folder Notebooks/Work_by_Navdeep_Rana. 
 
 Song Gao also made some attempts, which include linear regression, knn, random forest models with train-test split and 5 fold cross validation, and test the best model on the final test set.
 The correponding notebook is Notebooks/Work_by_Song_Gao/Test_Model_SGao. 
